@@ -1,1 +1,1 @@
-# XX-Digital-electronics-Aman-janghela
+#06-Digital-electronics-Aman-janghela
